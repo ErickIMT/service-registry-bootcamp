@@ -6,4 +6,4 @@ eureka:
     fetch-registry: false
     register-with-eureka: false
     service-url:
-      defaultZone: http://localhost:8094
+      defaultZone: https://eureka-server-bootcamp.azurewebsites.net
